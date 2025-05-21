@@ -32,7 +32,6 @@ namespace TP_BibliotecaDigital.Administrador
         {
             try
             {
-
                 if (!string.IsNullOrEmpty(txtISBN.Text) && !string.IsNullOrEmpty(txtAuthor.Text) && !string.IsNullOrEmpty(txtTitle.Text))
                 {
                     CLSBook newbook = new CLSBook(txtTitle.Text, txtAuthor.Text,Convert.ToInt16(txtYear.Text) ,Convert.ToInt32(txtISBN.Text));
@@ -41,6 +40,7 @@ namespace TP_BibliotecaDigital.Administrador
                         sw.WriteLine($"{newbook.Title},{newbook.Author},{newbook.Year},{newbook.ISBN}");
                     }
                     MessageBox.Show("Book added successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    book.Cargarlista(dataGridView1);
                     return;
                 }
                 else
@@ -66,19 +66,15 @@ namespace TP_BibliotecaDigital.Administrador
                 if (dataGridView1.CurrentRow != null)
                 {
                     DataGridViewRow fila = dataGridView1.CurrentRow;
+                    int index = fila.Index;
 
                     // Actualizar datos en la fila seleccionada
                     fila.Cells[0].Value = txtTitle.Text;
                     fila.Cells[1].Value = txtAuthor.Text;
                     fila.Cells[2].Value = txtYear.Text;
                     fila.Cells[3].Value = txtISBN.Text;
-                    using (StreamWriter sw = new StreamWriter("books.csv", true)) // Sobrescribe el archivo
-                    {
-                        foreach (CLSBook libro in listbooks)
-                        {
-                            sw.WriteLine($"{libro.Title},{libro.Author},{libro.Year},{libro.ISBN}");
-                        }
-                    }
+                    book.Modificar(index,txtTitle.Text,txtAuthor.Text,Convert.ToInt16(txtYear.Text),Convert.ToInt32(txtISBN.Text));
+                    book.Cargarlista(dataGridView1);
 
                 }
 

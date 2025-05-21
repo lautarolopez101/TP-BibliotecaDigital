@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TP_BibliotecaDigital.CLS;
 
 namespace TP_BibliotecaDigital.Lector
 {
@@ -17,16 +18,16 @@ namespace TP_BibliotecaDigital.Lector
             InitializeComponent();
         }
 
+        CLSBook book = new CLSBook();
+
         private void btnSearch_Click(object sender, EventArgs e)
         {
 
             try
             {
-                if (!string.IsNullOrEmpty(txtTitle.Text) && !string.IsNullOrEmpty(txtAuthor.Text))
+                if (!string.IsNullOrEmpty(txtTitle.Text))
                 {
-
-                    
-
+                    book.Buscartitle(txtTitle.Text,dataGridView1);
                 }
                 else
                 {

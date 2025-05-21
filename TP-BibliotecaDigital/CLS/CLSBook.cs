@@ -71,8 +71,43 @@ namespace TP_BibliotecaDigital.CLS
                     sw.WriteLine($"{book.Title},{book.Author},{book.Year},{book.ISBN}");
                 }
             }
-            DataGridView dataGridView1 = new DataGridView();
-            Cargarlista(dataGridView1);
         }
+
+        
+        public void Buscartitle(string title,DataGridView dgv)
+        {
+            try
+            {
+                using (StreamReader sr = new StreamReader("books.csv"))
+                {
+                    string line;
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        var data = line.Split(',');
+                        CLSBook book = new CLSBook(data[0], data[1], Convert.ToInt32(data[2]), Convert.ToInt32(data[3]));
+                        listbooks.Add(book);
+                    }
+                }
+                if (title != null)
+                {
+
+                    // Filtrar la lista de libros
+                    var librosFiltrados = listbooks.Where(libro => libro.Title.ToLower().Contains(title.ToLower())).ToList();
+
+                    // Mostrar solo los resultados filtrados en DataGridView
+                    dgv.Rows.Add(librosFiltrados);
+
+                }
+                else
+                {
+                    MessageBox.Show("Please fill the title field","Error",MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Error: "+ e.Message, "Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
+        }
+
     }
 }

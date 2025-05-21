@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Administrador\FRMGestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FRMGestionUsuarios.Designer.cs">
+      <DependentUpon>FRMGestionUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="Administrador\FRMGestion_Libros.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Administrador\FRMAdministrador.resx">
       <DependentUpon>FRMAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FRMGestionUsuarios.resx">
+      <DependentUpon>FRMGestionUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Administrador\FRMGestion_Libros.resx">
       <DependentUpon>FRMGestion_Libros.cs</DependentUpon>

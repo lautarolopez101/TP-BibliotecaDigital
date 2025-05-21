@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\cls\\clsbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\cls\\clsbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\cls\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\cls\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmgestion_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\administrador\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|c:\\users\\lautaro\\desktop\\programacion orientada a objetos\\tp-bibliotecadigital\\tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\lector\\frmconsultalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C863F15F-AC8A-4B8E-B4D4-213A7C09F8DB}|TP-BibliotecaDigital\\TP-BibliotecaDigital.csproj|solutionrelative:tp-bibliotecadigital\\administrador\\frmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,58 +54,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLSUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSUser.cs",
+              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\CLS\\CLSUser.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSUser.cs",
+              "RelativeToolTip": "TP-BibliotecaDigital\\CLS\\CLSUser.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FRMGestionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:05:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FRMGestionUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs [Design]",
+              "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMGestionUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:59:53.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FRMGestion_Libros.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
+              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
+              "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:52:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLSBook.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSBook.cs",
+              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\CLS\\CLSBook.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSBook.cs",
+              "RelativeToolTip": "TP-BibliotecaDigital\\CLS\\CLSBook.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:39:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FRMAdministrador.cs",
               "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
               "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
               "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
               "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T14:03:53.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FRMGestion_Libros.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAmwHAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:03:12.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FRMGestion_Libros.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs [Design]",
-              "RelativeToolTip": "TP-BibliotecaDigital\\Administrador\\FRMGestion_Libros.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:01:34.133Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CLSBook.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSBook.cs",
-              "RelativeDocumentMoniker": "TP-BibliotecaDigital\\CLS\\CLSBook.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\CLS\\CLSBook.cs",
-              "RelativeToolTip": "TP-BibliotecaDigital\\CLS\\CLSBook.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAcwEkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:10:44.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FRMAdministrador.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
               "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Administrador\\FRMAdministrador.cs",
@@ -115,7 +149,7 @@
               "RelativeDocumentMoniker": "TP-BibliotecaDigital\\Lector\\FRMConsultaLibros.cs",
               "ToolTip": "C:\\Users\\Lautaro\\Desktop\\Programacion orientada a objetos\\TP-BibliotecaDigital\\TP-BibliotecaDigital\\Lector\\FRMConsultaLibros.cs",
               "RelativeToolTip": "TP-BibliotecaDigital\\Lector\\FRMConsultaLibros.cs",
-              "ViewState": "AgIAAAgAAACAKF4gM8ISwBsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T13:52:07.066Z",
               "EditorCaption": ""

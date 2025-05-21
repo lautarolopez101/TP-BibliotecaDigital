@@ -33,9 +33,10 @@
             this.txtTitle = new System.Windows.Forms.TextBox();
             this.txtAuthor = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.DTPYear = new System.Windows.Forms.DateTimePicker();
-            this.LSTConsultaLibros = new System.Windows.Forms.ListBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Title = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Author = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSearch
@@ -80,42 +81,39 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "Author";
             // 
-            // label3
+            // dataGridView1
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(75, 235);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(33, 16);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "Title";
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Title,
+            this.Author});
+            this.dataGridView1.Location = new System.Drawing.Point(452, 12);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(336, 426);
+            this.dataGridView1.TabIndex = 4;
             // 
-            // DTPYear
+            // Title
             // 
-            this.DTPYear.CustomFormat = "2025";
-            this.DTPYear.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.DTPYear.Location = new System.Drawing.Point(78, 255);
-            this.DTPYear.Name = "DTPYear";
-            this.DTPYear.Size = new System.Drawing.Size(56, 22);
-            this.DTPYear.TabIndex = 2;
+            this.Title.HeaderText = "Title";
+            this.Title.MinimumWidth = 6;
+            this.Title.Name = "Title";
+            this.Title.Width = 125;
             // 
-            // LSTConsultaLibros
+            // Author
             // 
-            this.LSTConsultaLibros.FormattingEnabled = true;
-            this.LSTConsultaLibros.ItemHeight = 16;
-            this.LSTConsultaLibros.Location = new System.Drawing.Point(357, 12);
-            this.LSTConsultaLibros.Name = "LSTConsultaLibros";
-            this.LSTConsultaLibros.ScrollAlwaysVisible = true;
-            this.LSTConsultaLibros.Size = new System.Drawing.Size(431, 420);
-            this.LSTConsultaLibros.TabIndex = 7;
+            this.Author.HeaderText = "Author";
+            this.Author.MinimumWidth = 6;
+            this.Author.Name = "Author";
+            this.Author.Width = 125;
             // 
             // FRMConsultaLibros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.LSTConsultaLibros);
-            this.Controls.Add(this.DTPYear);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtAuthor);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtTitle);
@@ -123,6 +121,7 @@
             this.Controls.Add(this.btnSearch);
             this.Name = "FRMConsultaLibros";
             this.Text = "Consultar Libro";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -135,8 +134,8 @@
         private System.Windows.Forms.TextBox txtTitle;
         private System.Windows.Forms.TextBox txtAuthor;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.DateTimePicker DTPYear;
-        private System.Windows.Forms.ListBox LSTConsultaLibros;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Title;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Author;
     }
 }
