@@ -1,0 +1,55 @@
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Form1.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMSignup.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Properties.Resources.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.GenerateResource.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMAdministrador.resources
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Form1.resources
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMSignup.resources
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Lector.FRMLector.resources
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe
+C:\Users\Administrator\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMAdministrador.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Form1.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMSignup.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Lector.FRMLector.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Properties.Resources.resources
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.GenerateResource.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\TP-BibliotecaDigital\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\bin\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe.config
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMAdministrador.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Form1.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.FRMSignup.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Lector.FRMConsultaLibros.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Lector.FRMLector.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Properties.Resources.resources
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.GenerateResource.cache
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.exe
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP-BibliotecaDigital.pdb
+C:\Users\Lautaro\Desktop\Programacion orientada a objetos\TP-BibliotecaDigital\TP-BibliotecaDigital\obj\Debug\TP_BibliotecaDigital.Administrador.FRMGestion_Libros.resources
